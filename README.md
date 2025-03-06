@@ -211,7 +211,8 @@ Helps ensure that the system acts as expected when integrated, having effective 
 Definition: System testing refers to testing the entire software program as a single unit. It checks whether the entire system behaves as designed and meets the outlined requirements.
 Purpose: To establish the overall system's general behavior and performance under various conditions.
 
-Significance
+Importance
+
 
 Ensures all system elements, hardware, software, and external interfaces are running in harmony.
 Catches any missing requirements or faults that were not caught in earlier test phases.
