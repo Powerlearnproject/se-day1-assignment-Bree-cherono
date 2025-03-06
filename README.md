@@ -211,6 +211,7 @@ Helps ensure that the system acts as expected when integrated, having effective 
 Definition: System testing refers to testing the entire software program as a single unit. It checks whether the entire system behaves as designed and meets the outlined requirements.
 Purpose: To establish the overall system's general behavior and performance under various conditions.
 
+<<<<<<< HEAD
 Significance
 
 Ensures all system elements, hardware, software, and external interfaces are running in harmony.
@@ -232,6 +233,30 @@ Ensures all requirements were met and the software is of good quality, thereby l
 Define prompt engineering and describe the importance of the same while interacting with an AI model.
 
 
+=======
+Importance
+
+
+Ensures all system elements, hardware, software, and external interfaces are running in harmony.
+Catches any missing requirements or faults that were not caught in earlier test phases.
+Ensures the software meets the defined functional and non-functional requirements, i.e., security, performance, usability.
+4. Acceptance Testing
+
+Definition: Acceptance testing is typically the final phase of testing, carried out to determine whether the software can go live and to business specifications. It's typically performed by the client or end-users.
+Purpose: To ensure that the system fulfills the needs and specifications of the user before being deployed to production.
+
+Importance:
+
+Ensures that the software adheres to business expectations and requirements, therefore it's appropriate for actual usage.
+Facilitates the identification of any software functionality gaps against user expectation.
+Ensures all requirements were met and the software is of good quality, thereby leading to a satisfied user.
+#Part 2: Intro to AI and Prompt Engineering
+
+
+Define prompt engineering and describe the importance of the same while interacting with an AI model.
+
+
+>>>>>>> refs/remotes/origin/main
 Prompt engineering is the process of designing and optimizing input prompts given to AI models to get the desired output.
 
 The objective is to design a prompt that clearly, effectively, and efficiently communicates the task or request to the AI model.
